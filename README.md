@@ -1,18 +1,14 @@
 # Hello, I'm Mostafa Adel 👋
-Welcome to my GitHub profile! I'm an Android Developer passionate about crafting innovative mobile applications and exploring emerging technologies. With a focus on delivering high-quality code and exceptional user experiences, I strive to make a positive impact in the world of mobile development.
+Welcome to my GitHub profile! I'm a Software Engineer about crafting innovative applications and exploring emerging technologies. With a focus on delivering high-quality code and exceptional user experiences.
 
 ## About Me
-💼 Currently working as an Freelancing Android Developer.
 🎓 Graduated with a degree in Computer Science.
 💡 Constantly learning and exploring new technologies to stay updated with industry trends.
 🌱 Actively contributing to open-source projects and participating in hackathons and coding challenges.
 
 ## Skills
-Languages: Kotlin, Java
-Android Frameworks: Android Jetpack (ViewModel, LiveData, Room, etc.), Retrofit, Glide/Picasso, RecyclerView
-Development Tools: Android Studio, Git, Gradle
-UI/UX Design: Material Design Guidelines, Custom Views, Responsive Layouts
-Testing: JUnit, Espresso
+Languages: JavaScript, C++, Kotlin, Java
+Development Tools: Visual Studio Code, Android Studio, Git, Gradle
 
 ## Get in Touch
 📧 Email: mostafadelgouda@gmail.com
